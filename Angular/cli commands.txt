@@ -1,3 +1,0 @@
-ng g c cockpit  --skipTests=true
-
-ng g c server-element --skipTests=true
